@@ -2,9 +2,6 @@
 
 | Date  | Used hours | Subject(s) |  Outcome(s) |
 | :---         |     :---:      |     :---:      |     :---:      |
-| 8.11.2025 | 4 | Preparing the course | Updated content |
-| 9.11.2025 | 4 | understanding the introduction of the course | Updated content |
-=======
 | 23.10.2025 | 4 | Preparing the course | Updated content |
 | 5.11.2025   |2  | introduction to cisco | started the course |
 | 6.11.2025 | 2 | cisco, module 1 reading | understood and knowledge check |
@@ -14,4 +11,3 @@
 | 15.11.2025 | 3 | postswigger- lab completed on SQL Injection | task done |
 | 16.11.2025 | 3 | postswigger - lab completed on Authentication and Access Control | task done |
 | 18.11.2025 | 1.5 | reflection and submission | updated content
->>>>>>> 68a4efdaec2d7b7e2d94c51f5d0bea2a4ff0ab8c
