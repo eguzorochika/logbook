@@ -11,3 +11,4 @@
 | 15.11.2025 | 3 | postswigger- lab completed on SQL Injection | task done |
 | 16.11.2025 | 3 | postswigger - lab completed on Authentication and Access Control | task done |
 | 18.11.2025 | 1.5 | reflection and submission | updated content
+| 28.11.2025 | 3 | work on booking system project phase 1 | task done
