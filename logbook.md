@@ -12,3 +12,4 @@
 | 16.11.2025 | 3 | postswigger - lab completed on Authentication and Access Control | task done |
 | 18.11.2025 | 1.5 | reflection and submission | updated content
 | 28.11.2025 | 3 | work on booking system project phase 1 | task done
+| 2.12.2025 | 4 | phase 1 part 2 fixed phase 1 | part 1 fixed
