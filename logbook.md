@@ -14,3 +14,6 @@
 | 28.11.2025 | 3 | work on booking system project phase 1 | task done
 | 8.12.2025 | 4 | phase 1 part 2 fixed | part 1 fixed
 | 8.12.2025 | 3 | phase 1 part 2 re done | part 1 fixed
+| 17.12.2025 | 3 | phase 2 done | task done
+| 18.12.2025 | 3 | phase 3   done | work done
+ 18.12.2025 | 4 | phase 4   done | work done
