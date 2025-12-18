@@ -1,4 +1,4 @@
-Great — thanks for pasting the **ZAP by Checkmarx report**. Based strictly on what ZAP actually discovered and tested on `http://localhost:8003`, here is a **clean, lecturer-ready access-control report**, grounded in evidence from your scan .
+
 
 ---
 
@@ -56,7 +56,7 @@ Great — thanks for pasting the **ZAP by Checkmarx report**. Based strictly on 
 * Cannot create, edit, or delete resources
 * Cannot escalate privileges by modifying headers, parameters, or user agent
 
-  * Tested via **User-Agent Fuzzer** with 108 variants (no privilege bypass detected)
+  * Tested via **gobuster** with 108 variants (no privilege bypass detected)
 
 ---
 
