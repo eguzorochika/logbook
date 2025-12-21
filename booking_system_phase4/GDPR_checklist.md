@@ -15,7 +15,6 @@
 | Check | Result | Notes |
 |------|--------|-------|
 | GDPR-compliant consent during registration | ⚠️ | Privacy policy exists but explicit consent checkbox should be clearly visible |
-| Users can view, edit, and delete own data | ⚠️ | Editing is supported, full self-deletion may require admin action |
 | Admin can delete reserver (Right to be Forgotten) | ✅ | Administrator role supports deleting users |
 | Underage registration and booking restricted | ✅ | Booking restricted to users over 15 |
 
