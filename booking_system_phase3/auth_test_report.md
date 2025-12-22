@@ -68,7 +68,6 @@
 
 * Can log in via same authentication mechanism — `/login`
 * Can access protected admin-only functionality (role-based)
-* Can manage system data (users, reservations, resources)
 * Can access endpoints hidden from lower roles
 
 > ZAP did **not** detect any admin endpoint leakage to unauthenticated or non-admin users.
